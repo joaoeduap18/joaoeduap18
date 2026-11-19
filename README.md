@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o João Eduardo</h1>
 
 <p align="center">
-<b>🤖 Estagiário de Engenharia de IA na e-Core</b><br>
+<b>🤖 Estagiário em Engenharia de IA</b><br>
 🎓 Engenharia de Software · ⚙️ Automação de processos · 🧠 IA aplicada
 </p>
 
@@ -18,7 +18,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas (FACINT)** e curso **Eng
 
 ## 💼 O que faço hoje
 
-Na **e-Core**, consultoria brasileira de tecnologia com parcerias com Atlassian, AWS e Postman, faço parte da **squad de RH**:
+Como estagiário de Engenharia de IA na **e-Core**, consultoria brasileira de tecnologia com parcerias com Atlassian, AWS e Postman:
 
 - 🔍 Identifico oportunidades de melhoria e analiso fluxos de trabalho existentes
 - 🤖 Desenvolvo automações e soluções de IA que eliminam tarefas repetitivas e reduzem o tempo de execução
@@ -69,31 +69,6 @@ Na **e-Core**, consultoria brasileira de tecnologia com parcerias com Atlassian,
 - 🎯 **Bacharelado em Engenharia de Software** · UNIGRAN (fev 2026 - atual)
 - 💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas** · FACINT (2023 - 2025)
 - 🖥️ **Técnico em Informática** · ETEC de Ilha Solteira (2017 - 2019)
-
-## 📚 Cursos recentes
-
-<details>
-<summary>Clique para ver</summary>
-
-**🤖 IA e automação**
-
-- Claude: skills, artefatos e integração de ferramentas no assistente de IA (out 2026)
-- Agentes de IA e Automação com n8n (set 2026)
-- Claude 101, Introduction to agent skills, Introduction to subagents e Introduction to Claude Cowork (jun 2026)
-- Claude, Claude Code e Claude Cowork · #Treinamentos (fev 2026)
-- AI Fluency for students (jan 2026)
-- Inteligência Artificial do zero: Dominando IA Generativa e Engenharia de Prompt (out 2025)
-
-**🗄️ Dados**
-
-- Power BI · #Treinamentos (dez 2025)
-- SQL · #Treinamentos: SQL Server, PostgreSQL e Oracle (dez 2025)
-
-**🤝 Soft skills**
-
-- Gestão de Tempo e Comunicação assertiva (out 2025)
-
-</details>
 
 ## 📂 Projetos
 
